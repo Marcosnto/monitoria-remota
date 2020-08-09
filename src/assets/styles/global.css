@@ -51,6 +51,7 @@ textarea {
   eu digo que essas tags vão ter o tamanho
   de 15,36px */
   font: 500 1.6rem Poppins;
+  color: var(--color-text-base);
 }
 
 .container {
