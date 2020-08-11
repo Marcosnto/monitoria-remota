@@ -42,21 +42,3 @@ ele utiliza o estilo */
   margin: 3.2rem auto;
   width: 90%;
 }
-
-@media (min-width: 700px) {
-  #page-teacher-list {
-    max-width: 100%;
-  }
-
-  #search-teachers {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    column-gap: 16px;
-    position: absolute;
-    bottom: -44px;
-  }
-
-  #search-teachers .textarea-block + .input-block {
-    margin-top: 0;
-  }
-}
