@@ -4,7 +4,7 @@
 
 
 <h2>Tecnologias</h2>
-<p>Projeto desenvolvido para a prática das tecnologias a seguir:</p>
+<p>Projeto desenvolvido durante o bootcamp da Rocketseat (2020) para a prática das tecnologias a seguir:</p>
 <h3>Front-end</h3>
 <ul>
   <li>ReactJS</li>
