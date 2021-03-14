@@ -34,7 +34,7 @@
 
 1. Clone o repositório 
 ```
-git clone https://github.com/Marcosnto/profe-rocket
+git clone https://github.com/Marcosnto/monitoria-remota
 ```
 
 2. Utilizando o terminal de preferencia, abra os 2 diretórios (1 em cada terminal): web e server e execute o comando a seguir para instalar as dependências
