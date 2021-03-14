@@ -39,12 +39,12 @@ git clone https://github.com/Marcosnto/monitoria-remota
 
 2. Utilizando o terminal de preferencia, abra os 2 diretórios (1 em cada terminal): web e server e execute o comando a seguir para instalar as dependências
 ```
-yarn
+yarn ou npm install
 ```
 
 3. Inicie o projeto em cada um deles: 
 ```
-yarn start
+yarn start ou npm start
 ```
 
 4. Após o passo 3, o projeto poderá ser acessado através da porta padrão 3000 (ou caso esta esteja sendo utilizada, verificar qual foi disponibilizada pelo React).
